@@ -1,4 +1,4 @@
-# passport-slack-example
+# passport-slack example
 
 A very rough example on how to use [passport-slack](https://github.com/mjpearson/passport-slack).
 
